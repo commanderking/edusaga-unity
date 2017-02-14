@@ -1,0 +1,66 @@
+Key,Description,Standard
+SAY.Flowchart.1.,," You have finally arrived in Shanghai. From the crowds of people waiting at the airport, a female officer approaches you."
+SAY.Flowchart.2.,,"The cop walks within two feet of you, waves, and says... "
+SAY.Flowchart.14.警察,,你好!
+SAY.Flowchart.12.,,Oh boy... The Chinese is already coming. What do you think she just said?!
+MENU.Flowchart.9,,Hi
+MENU.Flowchart.18,,How are you {name}?
+MENU.Flowchart.19,,You're good!
+MENU.Flowchart.20,,Bye!
+MENU.Flowchart.28,,Motion to Cop to repeat what she just said...
+SAY.Flowchart.15.,,You have a strong feeling that you answered correctly...
+SAY.Flowchart.27.,,It would be mighty impolite not to respond after someone just said hi to you. 
+SAY.Flowchart.17.,,"For some reason, you don't quite feel confident in your answer...  But don't give up yet! "
+SAY.Flowchart.26.,,How will you respond?
+MENU.Flowchart.25,,Nǐ ne 
+MENU.Flowchart.35,,Lǐ mào
+MENU.Flowchart.36,,Nǐ hǎo
+MENU.Flowchart.37,,Nǐ shì 
+MENU.Flowchart.38,,Re-imagine what she said...
+MENU.Flowchart.106,,Who are you!? 
+SAY.Flowchart.39.,,"You wave, clear your throat, and give your best sounding... nǐ hǎo! "
+SAY.Flowchart.43.警察,,The cop nods her head in approval.
+SAY.Flowchart.41.警察,,什么? The cop gives you a confused look. 
+SAY.Flowchart.32.警察,,你好!
+SAY.Flowchart.49.,,我叫 Lily.  
+SAY.Flowchart.53.,,What is she trying to say!? 
+MENU.Flowchart.55,,I like Lily.
+MENU.Flowchart.57,,I will call Lily.
+MENU.Flowchart.52,,I'm Lily.
+MENU.Flowchart.56,,Where's Lily?
+MENU.Flowchart.45,,What did she say?
+SAY.Flowchart.54.,,"Slowly, but surely, you feel like you'll be able to learn Chinese just fine..."
+SAY.Flowchart.70.,,You begin walking towards the baggage claim to get your luggage... 
+SAY.Flowchart.58.,,"Hmm... you can't shake the feeling that that's not right. Come on, you've got this..."
+SAY.Flowchart.65.,,你叫什么名字? 
+MENU.Flowchart.66,,Motion for her to repeat...
+MENU.Flowchart.69,,What’s your name?
+MENU.Flowchart.74,,Who do you think you are!?
+MENU.Flowchart.75,,Who are you?
+MENU.Flowchart.76,,Do you know where you’re going?
+SAY.Flowchart.77.,,You feel even more confident as you realize she's probably asking you for your name... 
+SAY.Flowchart.78.,,"Well, time to answer...."
+SAY.Flowchart.79.,,"No... that can't be right. Let me rethink this... She just intorduced her name, so she must be asking..."
+SAY.Flowchart.85.,,How will you respond? 
+MENU.Flowchart.89,,Remember how the cop introduced herself...
+MENU.Flowchart.91,,Wǒ jiào {$name}.
+MENU.Flowchart.92,,wǒ hěn hǎo {$name}
+MENU.Flowchart.93,,Nǐ hǎo {$name}
+MENU.Flowchart.94,,Míngzì {$name}
+SAY.Flowchart.100.警察,,哦! 你叫 {$name}! 欢迎你到上海。 
+SAY.Flowchart.102.警察,,喂喂喂! 哎。 明白了。 我马上就来。 再见。
+SAY.Flowchart.103.警察,,真不好意思! 我得走了. 再见 {$name}!
+SAY.Flowchart.105.,,"Well, that was weird. Who is she anyway? And why did she greet me right as I got off the airport? "
+SAY.Flowchart.112.,,"You suddenly feel like you're STARVING, but luckily see a KFC ahead. You decide to get in line and hear people start to make thier orders..."
+SAY.Flowchart.121.,,"Hmm... considering you'll probably have to order Chinese, it's probably best you really pay attention to how it's done. You can do this! "
+SAY.Flowchart.98.警察,,Shénme? The cop gives you a confused look. 
+SAY.Flowchart.87.,,我叫 Lily.  
+SAY.Flowchart.109.警察,,No English. 
+SAY.Flowchart.115.KFC customer,,Lái yīgè pài.
+SAY.Flowchart.116.,,"After ordering, the customer walks away happily with a weird looking ""pie"" in his hand. "
+SAY.Flowchart.117.KFC customer,,Lái yīgè shǔ tiáo. 
+SAY.Flowchart.118.,,The customer happily walks away with some french fries... 
+SAY.Flowchart.119.KFC customer,,Lái yīgè bīngqílín.
+SAY.Flowchart.120.,,"The customer skips away, happily eating ice cream!"
+CHARACTER.KFC customer,Orders KFC Food,KFC customer
+CHARACTER.警察,,警察

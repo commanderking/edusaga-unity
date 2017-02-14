@@ -1,0 +1,43 @@
+Key,Description,Standard
+SAY.Flowchart.102.,,Only half an hour until we arrive. This 13 hour flight has been intense...
+SAY.Flowchart.87.Pilot,,Good evening ladies and gentlemen. We will be arriving shortly at Shanghai Pudong Airport. The temperature in Shanghai is 29°C or 84°F. 
+SAY.Flowchart.88.Pilot,,"For your safety, please make sure that your seat belts are tightly fastened. "
+SAY.Flowchart.89.Pilot,,"Gèwèi kèhù, nǐmen hǎo. Wǒmen jiàng zài shànghǎi pǔdōng jīchǎng jiàngluò. Shànghǎi mùqián shèshì èrshíjiǔ dù, huáshì bāshísì dù. \n"
+SAY.Flowchart.90.Pilot,,"Wèi nín de ānquán, qǐng jì shàng nín de ānquán dài. "
+SAY.Flowchart.107.,,Seems like it's time to buckle up for landing.
+SAY.Flowchart.2.Flight Attendant,,Please remember to fill out your immigration card before we land. 
+SAY.Flowchart.108.,,An immigration card? Huh?
+SAY.Flowchart.53.Flight Attendant,,"So this is your first and last name, correct?\nFirst name: {$firstName} \nLast name: {$lastName}"
+MENU.Flowchart.67,,
+MENU.Flowchart.54,,Looks good!
+MENU.Flowchart.64,,Whoops! Let me change that!
+SAY.Flowchart.51.Flight Attendant,,Excuse me. Please make sure you fill out your first and last name on the arrival card. 
+SAY.Flowchart.60.,,Looks like we're about to land. 
+SAY.Flowchart.69.,,Looks like the plane to Shanghai is boarding soon. I had better call Alex to make sure she'll be ready to pick me up when I arrive.
+SAY.Flowchart.70.Alex,,Wèi!
+SAY.Flowchart.158.,,Hmm... did I call the wrong number?
+MENU.Flowchart.135,,
+MENU.Flowchart.136,,Wèi! Alex?
+MENU.Flowchart.137,,Hello! Alex?
+SAY.Flowchart.115.Alex,,"Hey, it’s me, Alex! So excited you're finally coming! But listen, I have some bad news."
+SAY.Flowchart.161.,,I wonder what the bad news could be...
+MENU.Flowchart.159,,
+MENU.Flowchart.160,,Are you in trouble again?
+MENU.Flowchart.162,,Do I have to have to find another place to stay? 
+SAY.Flowchart.140.Alex,,"No silly, it’s not that. I just can’t make it to the airport to pick you up. I’ll tell you about it later, but something urgent came up - and it’s something I’ve been waiting for! \n"
+MENU.Flowchart.163,,
+MENU.Flowchart.164,,That's fine. I can get a cab or something.
+MENU.Flowchart.169,,What if I get lost!?
+MENU.Flowchart.170,,No way! I'm canceling my flight then.
+SAY.Flowchart.167.Alex,,Don't be ridiculous. You'll be fine.
+SAY.Flowchart.171.Alex,,"Ok - I’m going to send you my address so write it down on paper or screenshot it. Remember, you won’t have access to data when you land in Shanghai. "
+SAY.Flowchart.172.Alex,,"Also, one of my roommates, David, should be at the apartment to greet you. "
+SAY.Flowchart.177.Flight Attendant,,"Good afternoon passengers. This is the pre-boarding announcement for flight 888 to Shanghai. We are now inviting those passengers with small children, and any passengers requiring special assistance, to begin boarding at this time. "
+SAY.Flowchart.178.Flight Attendant,,Please have your boarding pass and identification ready. Regular boarding will begin in approximately ten minutes time. Thank you.
+SAY.Flowchart.183.Alex,,"Sounds like you're boarding soon. You had better get going. Zàijiàn! I mean, bye! "
+SAY.Flowchart.187.,,Shanghai... here I come!
+CHARACTER.,,
+CHARACTER.Flight Attendant,,Flight Attendant
+CHARACTER.Pilot,,Pilot
+CHARACTER.Flight Announcer,,Flight Announcer
+CHARACTER.Alex,,Alex

@@ -1,0 +1,100 @@
+Key,Description,Standard
+SAY.Flowchart.1.,,"Finally, I've arrived in Shanghai. As I get off the plane, I follow the huge crowd of people  walking towards the exit... "
+SAY.Flowchart.174.,,"There's a female officer who seems to be fighting through the crowd, heading in my direction. Wait a second... why is she approaching me?"
+SAY.Flowchart.2.,,"She stops literally two feet from me, waves, and says... "
+SAY.Flowchart.14.警察,,Nǐ hǎo!
+SAY.Flowchart.12.,,Oh boy... The Chinese is already coming. What did she just say?!
+MENU.Flowchart.28,,REPEAT
+MENU.Flowchart.9,,Hi
+MENU.Flowchart.18,,How are you?
+MENU.Flowchart.19,,You're good!
+MENU.Flowchart.20,,Bye!
+SAY.Flowchart.15.,,You have a strong feeling that you answered correctly...
+SAY.Flowchart.27.,,It would be mighty impolite not to respond after someone just said hi to you. 
+SAY.Flowchart.17.,,"For some reason, I don't quite feel confident in my answer...  Let me rethink tihs. "
+SAY.Flowchart.26.,,How will you respond?
+MENU.Flowchart.38,,Re-imagine what she said...
+MENU.Flowchart.25,,Nǐ ne 
+MENU.Flowchart.35,,Lǐ mào
+MENU.Flowchart.36,,Nǐ hǎo
+MENU.Flowchart.37,,Nǐ shì 
+MENU.Flowchart.106,,Who are you!? 
+SAY.Flowchart.39.,,"I wave back, clear my throat, and give my best sounding... nǐ hǎo! "
+SAY.Flowchart.43.警察,,The cop nods her head in approval.
+SAY.Flowchart.41.警察,,什么? The cop gives you a confused look. 
+SAY.Flowchart.32.警察,,你好!
+SAY.Flowchart.49.,,Wǒ jiào Lily.
+SAY.Flowchart.53.,,What is she trying to say!? 
+MENU.Flowchart.45,,Recall what she said
+MENU.Flowchart.55,,I like Lily.
+MENU.Flowchart.57,,I will call Lily.
+MENU.Flowchart.52,,I'm Lily.
+MENU.Flowchart.56,,Where's Lily?
+SAY.Flowchart.54.,,"Slowly, but surely, I feel like I'll be able to learn Chinese just fine..."
+SAY.Flowchart.70.,,I begin walking towards the baggage claim to get my luggage. The cop continues to walk alongside me... 
+SAY.Flowchart.58.,,"Hmm... I can't shake the feeling that that's not right. Come on, I've got this..."
+SAY.Flowchart.65.警察,,Nǐ jiào shénme míngzì?
+SAY.Flowchart.176.,,More Chinese... What could she possibly be saying now? 
+MENU.Flowchart.66,,Motion for her to repeat...
+MENU.Flowchart.69,,What’s your name?
+MENU.Flowchart.74,,Who do you think you are!?
+MENU.Flowchart.75,,Who are you?
+MENU.Flowchart.76,,Do you know where you’re going?
+SAY.Flowchart.77.,,I feel even more confident now that I realize she's probably asking me for my name... 
+SAY.Flowchart.78.,,"Well, time to answer...."
+SAY.Flowchart.79.,,"No... that can't be right. Let me rethink this... She just intorduced her name, so she must be asking..."
+SAY.Flowchart.85.,,How will you respond? 
+MENU.Flowchart.89,,Remember how the cop introduced herself...
+MENU.Flowchart.91,,Wǒ jiào...
+MENU.Flowchart.92,,wǒ hěn hǎo...
+MENU.Flowchart.93,,Nǐ hǎo...
+MENU.Flowchart.94,,Míngzì...
+SAY.Flowchart.100.警察,,Ó! Nǐ hǎo! Huānyíng nǐ dào shànghǎi.
+SAY.Flowchart.102.警察,,Wèi......... Ā. Míngbáile. Wǒ mǎshàng jiù lái. Zàijiàn.
+SAY.Flowchart.103.警察,,Zhēn bù hǎoyìsi! Wǒ déi zǒule. Zàijiàn!\n
+SAY.Flowchart.105.,,"Well, that was weird. Who is she anyway? And why did she greet me right as I got off the airport? "
+SAY.Flowchart.112.,,"I suddenly feel like I'm STARVING, but luckily I see a KFC ahead. I decide to get in line and listen to people make their orders."
+SAY.Flowchart.121.,,"Hmm... considering I'll probably have to order in Chinese, it's probably best to really pay attention to how it's done. I can do this! "
+SAY.Flowchart.98.警察,,Shénme? The cop gives me a confused look. 
+SAY.Flowchart.87.警察,,Wǒ jiào Lily.
+SAY.Flowchart.109.警察,,No English. 
+SAY.Flowchart.115.KFC customer,,Lái yīgè pài.
+SAY.Flowchart.116.,,"After ordering, the customer walks away happily with a weird looking ""pie"" in his hand. "
+SAY.Flowchart.117.KFC customer,,Lái yīgè shǔ tiáo. 
+SAY.Flowchart.118.,,The customer happily walks away with some french fries... 
+SAY.Flowchart.119.KFC customer,,Lái yīgè bīngqílín.
+SAY.Flowchart.120.,,"The customer skips away, happily eating ice cream!"
+SAY.Flowchart.191.,,"After hearing the three customers ahead of me order, I walk up to the counter..."
+SAY.Flowchart.124.KFC Employee,,Nǐ hǎo. (He seems to be waiting for your order). 
+SAY.Flowchart.199.,,Hmm... let's see. What do I want to eat? 
+MENU.Flowchart.144,,Recall what other people ordered.
+MENU.Flowchart.139,,Lái yīgè bīngqílín
+MENU.Flowchart.142,,Lái yīgè pài
+MENU.Flowchart.143,,lái yīgè shǔ tiáo
+MENU.Flowchart.145,,"Can I just have some french fries, please!? "
+SAY.Flowchart.155.KFC Employee,,Lái yīgè bīngqílín!!
+SAY.Flowchart.156.,,"The cash register shows 7. That must be the price of the meal. I guess I'll pay for the meal with the RMB I exchanged for prior to my trip. Hopefully, I'm not doing anything too wrong yet! "
+SAY.Flowchart.157.,,"After I pay for the ice cream, the employee hands me the ice cream. It looks delicious and I quickly finish it. I'm still starving, but I guess I feel a little better than before."
+SAY.Flowchart.177.,, Maybe I should have gotten the pie or french fries? 
+SAY.Flowchart.178.,,"Anyway, I'd rather not butcher the language anymore for today and I decide to head over to the taxi stand to hopefully get to my new living space. "
+SAY.Flowchart.152.KFC Employee,,Lái yīgè pài!!
+SAY.Flowchart.153.,,"The cash register shows 8. That must be the price of the meal. I guess I'll pay for the meal with the RMB I exchanged for prior to my trip. Hopefully, I'm not doing anything too wrong yet! "
+SAY.Flowchart.154.,,"After the exchange, my pie comes out nice and warm. Nobody from where I'm from would exactly call this a pie, but it should be interesting! \n\n"
+SAY.Flowchart.179.,,"I decide to take a bite, only to realize that there's some kind of sweet bean inside. Totally was not expecting that! A warm welcome to me to China, I suppose! "
+SAY.Flowchart.180.,,I decide to head over to the taxi stand to hopefully find a way to my new living space. 
+SAY.Flowchart.149.KFC Employee,,Lái yīgè shǔ tiáo!!
+SAY.Flowchart.150.,,"The cash register shows 15. That must be the price of the meal. I guess I'll pay for the meal with the RMB I exchanged for prior to my trip. Hopefully, I'm not doing anything too wrong yet! "
+SAY.Flowchart.151.,,"After the exchange, my fries come out nice and hot, and I head over to the taxi stand to hopefully get to my new living space. "
+SAY.Flowchart.147.KFC Employee,,"Shénme? A, bù hǎoyìsi, wǒ bù dǒng yīngwén. No English."
+SAY.Flowchart.165.,,"Looks like there's a long line for taxis, but at least it's moving quickly... "
+SAY.Flowchart.166.,,"Within 5 minutes, I'm at the front of the line and a security officer points me in the direction of a taxi. As a I get in the taxi, I hand the taxi driver my address. "
+SAY.Flowchart.188.,,"He nods, hands the paper back, and begins driving off. "
+SAY.Flowchart.167.,,"Tired from the long flight ride and my immersion into this brand new world, I begin to doze off... "
+SAY.Flowchart.170.,,"As I slowly wake up. I realize that I've already arrived at the apartment. I pay the taxi driver the amount listed on the meter, 236 RMB and proceed up the elevator. \n "
+SAY.Flowchart.171.,,"I unlock the door, hit the bed, and fall asleep. "
+CHARACTER.Character Name,,Character Name
+CHARACTER.警察,,警察
+CHARACTER.Red Bean Pie,,Red Bean Pie
+CHARACTER.KFC Employee,,KFC Employee
+CHARACTER.KFC customer,Orders KFC Food,KFC customer
+CHARACTER.French Fries,,French Fries
